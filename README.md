@@ -1,6 +1,6 @@
 ### Hi! I am Daniel Hasegawa, pharmacist seeking career change to the IT field.👋
 
-- 🌱 I’m currently learning Java, Spring Framework.
+- 🌱 I’m currently learning Java, Kotlin, and Spring Framework.
 
 <div align="center">
   <a href="https://github.com/danhasegawa">
@@ -9,12 +9,13 @@
 </div>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dan-Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Dan-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Dan-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
- <img align="center" alt="Dan-Spring" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Dan-MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
- <img align="center" alt="Dan-Tomcat" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg">
+  <img align="center" alt="Dan-Java" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Dan-Kotlin" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original-wordmark.svg">
+  <img align="center" alt="Dan-Python" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Dan-Git" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <img align="center" alt="Dan-Spring" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Dan-MySQL" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="Dan-Tomcat" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg">
  
 </div>
 
