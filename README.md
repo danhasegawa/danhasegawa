@@ -1,6 +1,6 @@
 ### Hi! I am Daniel Hasegawa, pharmacist seeking career change to the IT field.👋
 
-- 🌱 I’m currently learning Java, Kotlin, and Spring Framework.
+- 🌱 I’m currently learning Java, Kotlin, Android Native, and Spring Framework.
 
 <div align="center">
   <a href="https://github.com/danhasegawa">
