@@ -1,4 +1,4 @@
-### Hi! I am Daniel Hasegawa, pharmacist seeking career change to the IT field.👋
+### Hi! I am Daniel Hasegawa, a pharmacist seeking a career change to the IT field.👋
 
 - 🌱 I’m currently learning Java, Kotlin, Android Native, and Spring Framework.
 
